@@ -1,9 +1,11 @@
 ---
-title: "Deques:-Sound-Synthesizer-Music-Player-for-Guitar-Hero"
+title: "Deques: Sound Synthesizer Music Player for Guitar Hero"
 date: 2023-03-30
 ---
+# Introduction
 Music has been a passion of mine since I was a child, and I've always been fascinated by the intersection between music and technology. As part of my computer science studies at Berkeley, I decided to take on a project that would allow me to explore this intersection further. The result was Deques, my sound synthesizer music player for Guitar Hero.
 
+# Detailed Explanations
 To begin, I implemented the Karplus-Strong algorithm using a custom double-ended queue API. This algorithm was perfect for simulating the sound of a plucked guitar string, and the custom double-ended queue API allowed for efficient manipulation of the sound waves. I spent hours tweaking the parameters until I was satisfied with the sound quality and the level of interactivity.
 
 Next, I developed a graphical interface that would allow users to interactively play sounds using a piano keyboard arrangement. I chose a 37-note layout to give users plenty of options while still keeping the interface simple and intuitive. I also added the ability to adjust the guitar string's plucking location, which allowed for even more customization of the sound.
