@@ -9,12 +9,22 @@
 
 ## List of Projects ## 
 
-#### NGramMap: Web-based word historical popularity (wordnets) visualization tool ####
+#### NGramMap ####
 
-#### Cook County Housing: Analyzing Racism in Housing Price Taxation in Cook County ####
+Web-based word historical popularity (wordnets) visualization tool
 
-#### Deques: Sound Synthesizer Music Player for Guitar Hero ####
+#### Cook County Housing ####
 
-#### Memory Game: Computerized game based on Simon (memory skill game) ####
+Analyzing Racism in Housing Price Taxation in Cook County
 
-#### World Generation: Avatar movement in tile-based board game ####
+#### Deques ####
+
+Sound Synthesizer Music Player for Guitar Hero
+
+#### Memory Game ####
+
+Computerized game based on Simon (memory skill game)
+
+#### World Generation ####
+
+Avatar movement in tile-based board game
