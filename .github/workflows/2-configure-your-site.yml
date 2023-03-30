@@ -1,4 +1,9 @@
 name: Step 2, Configure your site
+theme: minima
+title: My journey with Computer Science
+author: Samiha Singh
+description: A summary of my projects with detailed descriptions and highlighted features
+
 
 # This step triggers after the learner update their Pages config file
 # This step sets STEP to 3
